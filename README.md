@@ -16,9 +16,8 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt="Telegram Badge" /></a>
                                                                                                                                  
   <a href="https://wa.me/89874517221">
-     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" /></a>                                    
-</div>                                                                                                                                                                       
-                                                                                                                                 
+     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" /></a>                              </div>                                                                                                                                                                       
+                                                                                                                           
 ---                                                                           
                                                                               
 ### My Tools :      
@@ -31,11 +30,5 @@
   <img src="https://github.com/rrailink/icons/blob/main/js.svg" title="JS" alt="JS" width="70" height="70"/>&nbsp;  
   <img src="https://github.com/rrailink/icons/blob/main/postman.svg" title="Postman" alt="Postman" width="70" height="70"/>&nbsp;
   <img src="https://github.com/rrailink/icons/blob/main/devtools.svg" title="DevTools" alt="DevTools" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/rrailink/icons/blob/main/api.svg" title="API" alt="API" width="70" height="70"/>&nbsp;                                                     
+  <img src="https://github.com/rrailink/icons/blob/main/api.svg" title="API" alt="API" width="70" height="70"/>&nbsp;                                                   
 </div> 
-
----
-    
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rrailink&theme=tokyonight&border_radius=60"/>
-</p>                                                                                                                            
