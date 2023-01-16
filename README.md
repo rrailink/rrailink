@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200px" align="right"/>
   <h3 margin_right="50px">Привет</h3>
   <ul>
-    <li> Я QA Engineer и Automation.</li>
+    <li> Я QA Engineer и Automator.</li>
     <li> Тестирую веб сайты и игры.</li>
     <li> В свободное время, занимаюсь музыкальным продакшеном.</li>
     <li> В будущем хочу открыть свою GameDev студию.</li>
